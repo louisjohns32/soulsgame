@@ -13,5 +13,9 @@ Space - roll/dodge
 
 Q - target enemy
 
+I - toggle inventory
+
+C - toggle character sheet
+
 
 I suggest reading the development section of the documentation for a general overview of the code. 
